@@ -1,0 +1,11 @@
+name: base
+channels:
+  - rapidsai
+  - pytorch
+  - nvidia
+  - conda-forge
+  - bioconda
+dependencies:
+  - pyopenssl=20.0.1
+  - python=3.10
+  - ca-certificates
